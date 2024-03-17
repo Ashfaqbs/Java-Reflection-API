@@ -18,7 +18,7 @@ public class privateVariablesclass {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-
+  
 	public int getAge() {
 		return age;
 	}

@@ -20,7 +20,7 @@ public class Inspector {
 	public static void main(String[] args) {
 		MyClass myClass = new MyClass();
 		inspectClass(myClass);
-	}
+	}  
 }
 
 class MyClass {

@@ -24,3 +24,4 @@ class MyClass1 {
 		return privateField;
 	}
 }
+  

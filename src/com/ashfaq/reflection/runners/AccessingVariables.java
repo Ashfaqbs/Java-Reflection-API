@@ -32,7 +32,7 @@ public class AccessingVariables {
 
 		boolean anyFieldNotNull = isAnyFieldNotNull(pp);
 		System.out.println(anyFieldNotNull);
-
+  
 	}
 
 }

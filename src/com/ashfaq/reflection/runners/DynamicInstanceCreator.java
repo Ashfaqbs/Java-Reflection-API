@@ -16,3 +16,4 @@ public class DynamicInstanceCreator {
 class MyClass5 {
 	// MyClass implementation
 }
+      
